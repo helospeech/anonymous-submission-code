@@ -37,9 +37,6 @@
 
   ```text
   submission/
-  ├── origin-data/
-  │   └── README.md              # Instructions for preparing raw curriculum materials
-  ├── sample-data/               # Small anonymized examples, if provided
   ├── md_data_pipeline/          # Data synthesis pipeline
   │   ├── test_extract.py        # Extract lesson-level content
   │   ├── 2_generate_qa.py       # Generate cognitive defects and teaching tasks
